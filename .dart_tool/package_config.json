@@ -93,9 +93,9 @@
     },
     {
       "name": "plugin_platform_interface",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.8",
+      "rootUri": "file:///home/sumit/.pub-cache/git/plugin_platform_interface-5b87c0b21d7dfa69ff1b00993bc6f895ab5b0de5/",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.3"
     },
     {
       "name": "sky_engine",
@@ -158,7 +158,7 @@
       "languageVersion": "3.3"
     }
   ],
-  "generated": "2025-02-16T11:45:51.441403Z",
+  "generated": "2025-02-16T12:04:56.145837Z",
   "generator": "pub",
   "generatorVersion": "3.7.0",
   "flutterRoot": "file:///home/sumit/softwares/flutter",
